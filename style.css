@@ -1498,7 +1498,7 @@ hr{
      }
 }
 
-@media(max-width:400px) {
+@media(max-width:480px) {
     .mini-nav-img h1{
         font-size:12px;
     }
